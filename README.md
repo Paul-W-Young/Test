@@ -1,2 +1,2 @@
 # Test
-Stepping out on faith wiht github
+Stepping out on faith with github
